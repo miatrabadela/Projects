@@ -1,0 +1,3 @@
+Implements a bitwise AND operation across two equal-length bit arrays without using Python's built-in & operator. Demonstrates understanding of binary logic and array traversal.
+
+Instructions: Create a function in Python called 'BitAND()' that takes two arrays filled with bits. The function should return a third array that is the bit-wise AND array of the two input arrays. Assume the two arrays will be the same length, i.e. you need not check to see whether or not the two arrays have the same number of elements.
