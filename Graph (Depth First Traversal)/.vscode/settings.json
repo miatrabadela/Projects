@@ -1,0 +1,18 @@
+{
+  "files.associations": {
+    "new": "cpp",
+    "iostream": "cpp",
+    "ostream": "cpp",
+    "*.tcc": "cpp",
+    "compare": "cpp",
+    "sstream": "cpp",
+    "type_traits": "cpp",
+    "vector": "cpp",
+    "fstream": "cpp",
+    "array": "cpp",
+    "string_view": "cpp",
+    "initializer_list": "cpp",
+    "utility": "cpp"
+  },
+  "C_Cpp.errorSquiggles": "Disabled"
+}
